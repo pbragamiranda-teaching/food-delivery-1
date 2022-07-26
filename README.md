@@ -4,6 +4,7 @@
 #STATE
 - name -> String
 - cured -> Boolean
+
 #BEHAVIOR
 - cured? -> return cured status
 - cure! -> change cured from false to true
